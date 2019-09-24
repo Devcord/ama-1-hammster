@@ -397,4 +397,4 @@ If they're good, they're good.
 
 **Would you say it's a red flag if you get hired without it?**
 
-It's pretty normal for junior developers, but if you get hired as a senior without any body of work, I would not work for that company 
+It's pretty normal for junior developers, but if you get hired as a senior without any body of work, I would not work for that company.
